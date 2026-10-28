@@ -1,0 +1,7 @@
+name: ailegal
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: ailegal
+    type: streamable-http
+    url: https://ailegal.legal/api/mcp/
