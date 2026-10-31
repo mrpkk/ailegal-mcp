@@ -1,5 +1,9 @@
 # AILegal MCP server
 
+[![AILegal MCP server](https://glama.ai/mcp/servers/mrpkk/ailegal-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/ailegal-mcp)
+
+Web product: **<https://ailegal.legal>** — same corpus, same refusal when no provision is verified.
+
 MCP tool for agents that need an answer grounded in law, not in a model's memory.
 
 `legal_breakdown` sends a situation to the public AILegal API and returns the provisions
